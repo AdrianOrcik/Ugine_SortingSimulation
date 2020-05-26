@@ -1,12 +1,12 @@
 :pencil: Sorting simulation 
 ---------
-C++ based project built on ugine lib <br> 
+C++ based project built on ugine lib. <br> 
 [Check Ugine Repo](https://github.com/AdrianOrcik/ugine)
 
 :bulb: Idea
 ---------
-Create a sorting somulation application built on own engine lib <br>
-Application will provide several algorhitms for simulation
+Create a sorting somulation application built on own engine lib. <br>
+Application will provide several algorhitms for simulation.
 
 :tada: Result
 ---------
