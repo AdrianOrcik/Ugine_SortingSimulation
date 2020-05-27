@@ -1,12 +1,24 @@
 :pencil: Sorting simulation 
 ---------
-C++ based project built on ugine lib. <br> 
+OpenSource C++ based project built on ugine lib. <br> 
 [Check Ugine Repo](https://github.com/AdrianOrcik/ugine)
 
 :bulb: Idea
 ---------
 Create a sorting somulation application built on own engine lib. <br>
 Application will provide several algorhitms for simulation.
+
+:package: Getting Started
+---------
+Visual Studio 2017 or 2019 is recommended. <br>
+
+You can clone the repository to a local destination using git:
+git clone --recursive https://github.com/AdrianOrcik/Ugine_SortingSimulation
+Make sure that you do a --recursive clone to fetch all of the submodules!
+
+:pushpin: Packages overview
+---------
+![image](https://user-images.githubusercontent.com/14979589/83035557-48546e80-a042-11ea-9e25-58507964905e.png)
 
 :tada: Result
 ---------
