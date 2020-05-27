@@ -10,5 +10,5 @@ Application will provide several algorhitms for simulation.
 
 :tada: Result
 ---------
-![sortingSimulationDemo1](https://user-images.githubusercontent.com/14979589/82950013-455b6e80-9fad-11ea-9731-bdebfb53b23d.PNG)
-![SortSimulationDemo](https://user-images.githubusercontent.com/14979589/82950018-47bdc880-9fad-11ea-86d2-0aec1867dfad.gif)
+![image](https://user-images.githubusercontent.com/14979589/83034468-f6f7af80-a040-11ea-8320-34ff8c8ffaf5.png)
+![SortSimulationDemo2](https://user-images.githubusercontent.com/14979589/83034847-61105480-a041-11ea-810c-f1573d1f4fc2.gif)
