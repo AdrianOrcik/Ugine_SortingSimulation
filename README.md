@@ -11,9 +11,12 @@ Application will provide several algorhitms for simulation.
 :package: Getting Started
 ---------
 Visual Studio 2017 or 2019 is recommended. <br>
+1. Download project
 ```python
 git clone --recursive https://github.com/AdrianOrcik/Ugine_SortingSimulation
 ```
+2. Be sure all files in Sandbox solution are included
+3. Build Sandbox solution
 
 :pushpin: Packages overview
 ---------
