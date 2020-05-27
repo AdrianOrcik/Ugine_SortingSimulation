@@ -11,10 +11,9 @@ Application will provide several algorhitms for simulation.
 :package: Getting Started
 ---------
 Visual Studio 2017 or 2019 is recommended. <br>
-
-You can clone the repository to a local destination using git:
+```python
 git clone --recursive https://github.com/AdrianOrcik/Ugine_SortingSimulation
-Make sure that you do a --recursive clone to fetch all of the submodules!
+```
 
 :pushpin: Packages overview
 ---------
