@@ -124,7 +124,7 @@
     <ClCompile Include="src\scripts\algos\quick_sort.cc" />
     <ClCompile Include="src\scripts\algos\selection_sort.cc" />
     <ClCompile Include="src\scripts\formulas.cc" />
-    <ClCompile Include="src\scripts\routines\insert_routine.cpp" />
+    <ClCompile Include="src\scripts\routines\insert_routine.cc" />
     <ClCompile Include="src\scripts\routines\swap_routine.cc" />
     <ClCompile Include="src\scripts\simulation\simulation_step_bubble.cc" />
     <ClCompile Include="src\scripts\simulation\simulation_step_heap.cc" />

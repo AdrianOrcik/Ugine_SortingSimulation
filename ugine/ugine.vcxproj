@@ -486,7 +486,6 @@
     <ClInclude Include="external_src\tweeny\include\tweeny\tweenpoint.h" />
     <ClInclude Include="external_src\tweeny\include\tweeny\tweentraits.h" />
     <ClInclude Include="external_src\tweeny\include\tweeny\tweeny.h" />
-    <ClInclude Include="src\ugine\pooling\object_pooling.h" />
     <ClInclude Include="src\platform\opengl\opengl_buffer.h" />
     <ClInclude Include="src\platform\opengl\opengl_context.h" />
     <ClInclude Include="src\platform\opengl\opengl_renderer_api.h" />
@@ -525,6 +524,7 @@
     <ClInclude Include="src\ugine\layer.h" />
     <ClInclude Include="src\ugine\layer_stack.h" />
     <ClInclude Include="src\ugine\log.h" />
+    <ClInclude Include="src\ugine\pooling\object_pooling.h" />
     <ClInclude Include="src\ugine\renderer\buffer.h" />
     <ClInclude Include="src\ugine\renderer\color.h" />
     <ClInclude Include="src\ugine\renderer\graphic_context.h" />
