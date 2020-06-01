@@ -19,6 +19,7 @@ Ugine::Entity* manager;
 // TODO: add pooler on low layer ?
 Ugine::ObjectPooler* pooler;
 
+Ugine::Entity* prefab;
 Sandbox2D::Sandbox2D()
 	:Layer("Sandbox2D"), cameraController_(1280.0f / 720.0f, false , false, false)
 {
@@ -29,9 +30,10 @@ Sandbox2D::~Sandbox2D()
 {
 	Ugine::ECS::DestroyEntities();
 	delete pooler;
+	delete prefab;
 }
 
-Ugine::Entity* prefab;
+
 void Sandbox2D::OnAttach()
 {
 	// init random generation seed
