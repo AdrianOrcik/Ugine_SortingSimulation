@@ -8,6 +8,14 @@ OpenSource C++ based project built on ugine lib. <br>
 Create a sorting simulation application built on own engine lib. <br>
 Application will provide several algorhitms for simulation.
 
+Support Algorhitms
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Quick Sort
+* Heap Sort
+* Merge Sort
+
 :package: Getting Started
 ---------
 Visual Studio 2017 or 2019 is recommended. <br>
