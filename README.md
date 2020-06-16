@@ -5,7 +5,7 @@ OpenSource C++ based project built on ugine lib. <br>
 
 :bulb: Idea
 ---------
-Create a sorting somulation application built on own engine lib. <br>
+Create a sorting simulation application built on own engine lib. <br>
 Application will provide several algorhitms for simulation.
 
 :package: Getting Started
